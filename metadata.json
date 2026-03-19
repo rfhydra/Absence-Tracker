@@ -1,5 +1,5 @@
 {
-  "name": "Titan Attendance Ultimate",
-  "description": "The world's most advanced attendance system featuring AI-powered insights, multi-biometric verification, global geofencing, and gamified performance tracking.",
-  "requestFramePermissions": ["geolocation", "camera"]
+  "name": "Sentinel Wealth Intelligence",
+  "description": "The premier AI-driven wealth management suite for high-net-worth individuals and elite enterprises. Featuring real-time OCR receipt scanning, sophisticated AI financial advisory, and institutional-grade data visualization.",
+  "requestFramePermissions": ["camera", "geolocation"]
 }
